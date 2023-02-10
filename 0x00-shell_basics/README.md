@@ -7,3 +7,5 @@
 6-firstdirectory: create a dir in /tmp/
 7-movethatfile: move the file betty into my first directory.
 8-firstdelete: delete the file betty
+9-firstdirdeletion: delete the directory in tmp earlier created
+10-back: return to previous directory.
