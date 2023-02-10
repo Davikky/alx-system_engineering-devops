@@ -1,3 +1,4 @@
+#!/bin/bash
 0-current_working_directory: shows current working directory
 1-listit: lists contents of current directory
 2-bring_me_home: brings user to home directory
@@ -12,3 +13,4 @@
 11-lists: list all files in current, parent, and boot directory in that order;
 12-file_type: tells a file type
 13-symbolic_link: creates a symbolic link
+14-copy_html: Copy all .html files and only copy when there are no duplicates or the source file is a newer version.
