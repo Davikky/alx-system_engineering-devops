@@ -4,3 +4,4 @@
 3-listfiles: gives a detailed list of contents in the current directory
 4-listmorefiles: lists all contents of current directory in longformat.
 5-listfilesdigitonly: lists numeric id, including hidden files
+6-firstdirectory: create a dir in /tmp/
